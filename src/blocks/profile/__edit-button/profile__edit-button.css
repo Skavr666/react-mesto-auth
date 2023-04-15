@@ -1,0 +1,21 @@
+.profile__edit-button {
+  min-width: 24px;
+  height: 24px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  background-image: url(../../../images/edit.png);
+  background-repeat: no-repeat;
+  background-size: 10px 10px;
+  background-position: center;
+  cursor: pointer;
+  padding: 0;
+  display: inline-block;
+}
+
+@media screen and (max-width: 540px) {
+  .profile__edit-button {
+    min-width: 18px;
+    height: 18px;
+    background-size: 7.5px 7.5px;
+  }
+}

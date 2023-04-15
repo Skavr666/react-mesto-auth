@@ -1,0 +1,29 @@
+.profile__edit-avatar {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  width: 120px;
+  height: 120px;
+  align-self: center;
+  position: relative;
+  isolation: isolate;
+}
+
+.profile__edit-avatar::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  background-image: url(../../../images/edit-big.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 26px 26px;
+  opacity: 0;
+}
+
+.profile__edit-avatar:hover::after {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.8);
+}

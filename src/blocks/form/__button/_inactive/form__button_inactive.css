@@ -1,0 +1,11 @@
+.form__button_inactive {
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  opacity: .2;
+  border: solid 1px #000;
+  background-color: transparent;
+  color: #000;
+}
