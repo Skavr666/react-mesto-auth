@@ -10,4 +10,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://skavr666.github.io/)
+* [Ссылка на GitHub Pages](https://skavr666.github.io/react-mesto-auth/)
