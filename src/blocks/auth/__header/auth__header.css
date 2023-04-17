@@ -1,0 +1,10 @@
+.auth__header {
+  color: #fff;
+  text-align: center;
+  line-height: 1.2;
+  font-size: 24px;
+  font-weight: 900;
+  margin: 60px 0 50px 0;
+  max-width: 358px;
+  width: 100%;
+}

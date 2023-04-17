@@ -1,0 +1,12 @@
+.header__nav {
+  padding: 0;
+  display: flex;
+  gap: 24px;
+}
+
+@media screen and (max-width: 500px) {
+  .header__nav{
+    flex-direction: column;
+    text-align: right;
+  }
+}
