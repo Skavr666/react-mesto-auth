@@ -1,13 +1,5 @@
-# Проект: Место
+# Mesto React with auth and register
 
-### Обзор
-* Описание
-* GitHub Pages
+Variation of [Mesto project](https://github.com/yegorsid/mesto) made with React. This version implements: user registration, authentication and authorization. The main page of the route is protected by HOC.
 
-**Описание**
-
-Порт [проекта Mesto](https://github.com/Skavr666/mesto) на React. В этой версии были реализованы: регистрация, аутентификация и авторизация пользователя. Маршрут главной страницы был защищен с помощью HOC.
-
-**GitHub Pages**
-
-* [Ссылка на GitHub Pages](https://skavr666.github.io/react-mesto-auth/)
+[Link to GitHub Pages](https://skavr666.github.io/react-mesto-auth/)
